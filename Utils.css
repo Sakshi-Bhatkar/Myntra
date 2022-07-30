@@ -10,10 +10,17 @@
 {
     justify-content: center;    
 }
+.space-between{
+    justify-content: space-between;
+}
 .upppercase{
     text-transform: uppercase;
 }
 .bolder
 {
     font-weight: bolder;
+}
+.mx-2{
+   margin-left: 12px;
+   margin-right: 12px; 
 }
